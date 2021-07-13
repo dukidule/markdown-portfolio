@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. *Fast learner* 
+2. *Social, good at talking*
+3. **C Basic**
+4. **Java**
+5. And a little bit of **Swift**
