@@ -2,5 +2,5 @@
 layout: default
 ---
 
-# {% include 01-name.md %}
+# {% includes 01-name.md %}
 
